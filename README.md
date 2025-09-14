@@ -1,10 +1,12 @@
 # 📊 Sales Performance 2024 vs 2025 (Excel)
 
+## 🖼️ Visualizations
+
 ![Excel Sales 2024&2025](Excel%20Sales%202024%26%2025.jpeg)  
 ![Excel Sales 2024 & 2025](Excel%20Sales%2024%20%26%2025.jpeg)  
 
 ## 🎥 Demo Video  
-[▶ Watch the demo](Excel%20Sales%2024%20%26%2025.mp4)  
+[▶ Watch the demo](Excel%20Sales%2024%20%26%2025.mp4)
 
 ## 📌 Project Overview  
 This **Excel** project provides a detailed sales analysis covering the period from **January to July 2024 vs 2025**.  
