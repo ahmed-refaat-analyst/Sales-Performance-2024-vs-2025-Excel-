@@ -2,8 +2,8 @@
 
 ## 🖼️ Visualizations
 
-![Excel Sales 2024&2025](Excel%20Sales%202024%26%2025.jpeg)  
 ![Excel Sales 2024 & 2025](Excel%20Sales%2024%20%26%2025.jpeg)  
+![Excel Sales 2024& 2025](Excel%20Sales%202024%26%2025.jpeg)  
 
 ## 🎥 Demo Video  
 [▶ Watch the demo](Excel%20Sales%2024%20%26%2025.mp4)
